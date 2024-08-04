@@ -1,4 +1,4 @@
-# Image_Encryption
+# Watermark Encryption
 
 This notebook shows the working of Haar wavelet model in image encryption and decryption by using a medical Scan of brain as an input image , sample image size as text representing patient data and random numbers to form an image representing hospital logo
 
